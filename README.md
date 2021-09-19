@@ -1,1 +1,2 @@
 # Python-Voice-Assistant
+This is a virtual voice assistant application that I created using various libraries and modules from the python 3 progamming language. This appplication can perform a variety of tasks consisting of Wikipedia searches of various topics, opening computer programs and applications at the user's request via voice commands, and viewing one's Google calendar schedule for a certain day. This application requires one's Google Developer credentials in order to function correctly. Othwerise program will break.  
